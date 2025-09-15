@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
+fastapi
+uvicorn
+rasterio
+flask
+shapely
+geopandas
+fiona
+pyproj
+rtree
+imbalanced-learn
+matplotlib
